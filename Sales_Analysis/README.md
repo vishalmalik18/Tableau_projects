@@ -73,9 +73,6 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 ---
 
 ## 👤 Author
-
-**Vishal Malik**
-
-
-Would you like me to include a section on **how to recreate this dashboard in Tableau (step-by-step)**?
-I can add data prep, chart setup, and filter logic in the README.
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
