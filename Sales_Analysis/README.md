@@ -45,17 +45,17 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 
 ---
 
+## 📸 Preview
+
+![Sales Analysis Dashboard](Screenshot%202025-10-24%20155918.png)
+
+---
+
 ## 🔍 Filters and Interactivity
 
 * **Region Filter**: Focus on specific geographical areas.
 * **Ship Mode Filter**: Analyze performance based on delivery type.
 * Interactive hover effects to explore values and trends.
-
----
-
-## 📸 Preview
-
-![Sales Analysis Dashboard](Screenshot%202025-10-24%20155918.png)
 
 ---
 
