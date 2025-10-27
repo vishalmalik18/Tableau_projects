@@ -7,6 +7,12 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 
 ---
 
+## 📸 Preview
+
+![Sales Analysis Dashboard](Screenshot%202025-10-24%20155918.png)
+
+---
+
 ## 🚀 Key Features
 
 ### 💰 KPI Summary
@@ -38,12 +44,6 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 
 * **Segment by Sales/Profit:** Breakdown by Consumer, Corporate, and Home Office.
 * **Category by Sales/Profit:** Compares performance across Technology, Office Supplies, and Furniture.
-
----
-
-## 📸 Preview
-
-![Sales Analysis Dashboard](Screenshot%202025-10-24%20155918.png)
 
 ---
 
