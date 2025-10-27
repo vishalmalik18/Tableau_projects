@@ -1,7 +1,7 @@
 # 📊 Tableau Projects
 
 <p align="center">
-  <img src="TableauBanner.jpg" alt="Tableau Projects Banner" width="85%">
+  <img src="TableauBanner.jpg" alt="Tableau Projects Banner" width="90%">
 </p>
 
 Welcome to my **Tableau Projects** repository!  
