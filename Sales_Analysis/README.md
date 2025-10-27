@@ -1,7 +1,3 @@
-Here’s a sample **`README.md`** file you can use for your Tableau dashboard shown in the screenshot:
-
----
-
 # 📊 Sales Analysis Dashboard
 
 ## 📝 Overview
