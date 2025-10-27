@@ -53,6 +53,12 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 
 ---
 
+## 📸 Preview
+
+![Sales Analysis Dashboard](Screenshot%202025-10-24%20155918.png)
+
+---
+
 ## 🧰 Tools & Technologies
 
 * **Tool:** Tableau
@@ -67,21 +73,6 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 * **Most Profitable Category:** Technology (₹145K profit).
 * **Highest Revenue Segment:** Consumer (₹1,161K revenue).
 * **Profit Fluctuation:** Noticeable spikes in profit trends across months.
-
----
-
-## 🧩 How to Use
-
-1. Open the Tableau file (.twb or .twbx).
-2. Navigate to the dashboard named **“Sales Analysis”**.
-3. Use dropdown filters to refine analysis by **Region** or **Ship Mode**.
-4. Hover over bars or lines to view exact values and tooltips.
-
----
-
-## 📸 Preview
-
-![Sales Analysis Dashboard](Screenshot%202025-10-24%20155918.png)
 
 ---
 
