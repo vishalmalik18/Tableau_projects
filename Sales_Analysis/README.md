@@ -66,8 +66,8 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 ## 📈 Business Insights
 
 * **Top Performing Region:** West region with highest profit (~108K).
-* **Most Profitable Category:** Technology (₹145K profit).
-* **Highest Revenue Segment:** Consumer (₹1,161K revenue).
+* **Most Profitable Category:** Technology (145K profit).
+* **Highest Revenue Segment:** Consumer (1,161K revenue).
 * **Profit Fluctuation:** Noticeable spikes in profit trends across months.
 
 ---
