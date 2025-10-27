@@ -17,8 +17,8 @@ It is designed to help stakeholders quickly assess performance trends, identify 
 
 ### 💰 KPI Summary
 
-* **Total Revenue:** ₹2,297,201
-* **Total Profit:** ₹286,397
+* **Total Revenue:** 2,297,201
+* **Total Profit:** 286,397
 * Displays at the top of the dashboard for instant visibility.
 
 ### 🗺️ Profit & Sales by States
