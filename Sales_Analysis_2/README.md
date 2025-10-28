@@ -3,4 +3,4 @@
 
 how are you
 
-![hello_2](images/Screenshot%2025-10-28%151503.png)
+![hello](Sales_Analysis_2/images/Screenshot%202025-10-28%20151503.png)
