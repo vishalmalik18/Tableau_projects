@@ -32,7 +32,7 @@ The dashboard analyzes business performance through:
 **Summary:**  
 Displays **sales performance across region, segment, and category**, highlighting how **Furniture** and **Office Supplies** perform in different consumer segments.  
 
----
+
 
 ### Bar chart - Region & segment & category & subcategory by Sales  
 ![Region Segment Category Subcategory by Sales 2](images/Screenshot%202025-10-28%20151559.png)  
@@ -40,7 +40,7 @@ Displays **sales performance across region, segment, and category**, highlightin
 **Summary:**  
 Breaks down **subcategory-level sales** within each region and segment, showing variation in **Office Supplies** and **Technology** contributions.  
 
----
+
 
 ### Table - Region & segment & category & subcategory by Sales
 ![Region Segment Category Subcategory by Sales 3](images/Screenshot%202025-10-28%20151635.png)  
