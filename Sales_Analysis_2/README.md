@@ -91,16 +91,6 @@ Offers a **combined regional and segment view** for deeper analysis of how each 
 
 ---
 
-## 🌎 Region & Subcategory by Profit  
-
-![Region & Subcategory by Profit](images/Screenshot%202025-10-28%20151839.png)
-
-**Insights:**  
-- **East region** performs best across most categories.  
-- **Technology** category drives profit in all regions.  
-
----
-
 ## 🛠️ Tools Used  
 
 - **Tableau Public** – For building dashboards  
