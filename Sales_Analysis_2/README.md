@@ -26,7 +26,7 @@ The dashboard analyzes business performance through:
 
 ## 🌍 Region, Segment, Category & Subcategory by Sales  
 
-### Part 1  
+### Bar chart - Category & subcategory sales
 ![Region Segment Category Subcategory by Sales 1](images/Screenshot%202025-10-28%20151503.png)  
 
 **Summary:**  
