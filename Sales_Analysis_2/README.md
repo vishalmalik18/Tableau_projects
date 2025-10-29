@@ -34,7 +34,7 @@ Displays **sales performance across region, segment, and category**, highlightin
 
 ---
 
-### Part 2  
+### Bar chart - Region & segment & category & subcategory by Sales  
 ![Region Segment Category Subcategory by Sales 2](images/Screenshot%202025-10-28%20151559.png)  
 
 **Summary:**  
@@ -42,7 +42,7 @@ Breaks down **subcategory-level sales** within each region and segment, showing 
 
 ---
 
-### Part 3  
+### Table - Region & segment & category & subcategory by Sales
 ![Region Segment Category Subcategory by Sales 3](images/Screenshot%202025-10-28%20151635.png)  
 
 **Summary:**  
