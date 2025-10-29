@@ -1,18 +1,118 @@
+# 📊 Superstore Sales Analysis Dashboard  
 
-![hello](images/Screenshot%202025-10-28%20151452.png)
+This project presents a **comprehensive Tableau dashboard** built using the **Superstore dataset**, providing insights into **sales, profit, discounts, and performance** across regions, segments, and categories.
 
-how are you
+---
 
-![hello_2](images/Screenshot%202025-10-28%20151503.png)
+## 🧭 Overview  
 
-![hello_3](images/Screenshot%202025-10-28%20151559.png)
+The dashboard analyzes business performance through:  
+- Category & Subcategory Sales  
+- Regional & Segment-wise Breakdown  
+- Profit & Discount Trends by Year  
+- Subcategory Profitability and Stationery Sales  
 
-![hello_4](images/Screenshot%202025-10-28%20151635.png)
+---
 
-![hello_5](images/Screenshot%202025-10-28%20151715.png)
+## 🪑 Category & Subcategory Sales  
 
-![hello_6](images/Screenshot%202025-10-28%20151801.png)
+![Category & Subcategory Sales](images/Screenshot%202025-10-28%20151452.png)
 
-![hello_7](images/Screenshot%202025-10-28%20151819.png)
+**Insights:**  
+- **Chairs**, **Phones**, and **Binders** are the top-selling subcategories.  
+- **Technology** and **Furniture** categories contribute the most to total sales.  
 
-![hello_8](images/Screenshot%202025-10-28%20151829.png)
+---
+
+## 🌍 Region, Segment, Category & Subcategory by Sales  
+
+### Part 1
+![Region Segment Category Subcategory by Sales 1](images/Screenshot%202025-10-28%20151503.png)
+
+### Part 2
+![Region Segment Category Subcategory by Sales 2](images/Screenshot%202025-10-28%20151559.png)
+
+### Part 3
+![Region Segment Category Subcategory by Sales 3](images/Screenshot%202025-10-28%20151635.png)
+
+**Insights:**  
+- **Consumer segment** dominates in all regions.  
+- **Central and East regions** show higher performance in multiple categories.  
+- **Technology** has consistent sales across all regions.  
+
+---
+
+## 📈 Region & Segment & Category & Subcategory by Sales (Detailed View)  
+
+![Region Segment Category Subcategory Detailed](images/Screenshot%202025-10-28%20151715.png)
+
+**Insights:**  
+- Sales increase gradually from **2014 → 2017**.  
+- Maximum sales recorded in **2017 (~733K)**.  
+- Profit and quantity also show an upward trend.
+
+---
+
+## 💸 Discount by Year  
+
+![Discount by Year](images/Screenshot%202025-10-28%20151801.png)
+
+**Insights:**  
+- Discounts have steadily increased over the years, peaking in 2017.  
+- Possible strategy to drive higher sales volumes.  
+
+---
+
+## ✏️ Stationery Sales  
+
+![Stationery Sales](images/Screenshot%202025-10-28%20151819.png)
+
+**Insights:**  
+- **Art, Binders, and Envelopes** lead in stationery sales.  
+- Subcategories like **Chairs** and **Phones** also show high figures, reflecting cross-category performance.  
+
+---
+
+## 💹 Subcategory by Profit  
+
+![Subcategory by Profit](images/Screenshot%202025-10-28%20151829.png)
+
+**Insights:**  
+- **Copiers**, **Phones**, and **Accessories** are the most profitable.  
+- **Tables**, **Bookcases**, and **Supplies** show negative profit — potential optimization area.  
+
+---
+
+## 🌎 Region & Subcategory by Profit  
+
+![Region & Subcategory by Profit](images/Screenshot%202025-10-28%20151839.png)
+
+**Insights:**  
+- **East region** performs best across most categories.  
+- **Technology** category drives profit in all regions.  
+
+---
+
+## 🛠️ Tools Used  
+
+- **Tableau Public** – For building dashboards  
+- **Excel / CSV** – For data preparation
+---
+
+## 📚 Insights Summary  
+
+| Metric | Key Finding |
+|--------|--------------|
+| 📦 Top Category | Technology |
+| 🏆 Most Profitable Subcategory | Copiers |
+| ⚠️ Least Profitable Subcategory | Tables |
+| 🌎 Best Performing Region | East |
+| 🧍 Dominant Segment | Consumer |
+
+---
+
+## 👤 Author
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
+
