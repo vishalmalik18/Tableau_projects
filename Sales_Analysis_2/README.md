@@ -26,19 +26,27 @@ The dashboard analyzes business performance through:
 
 ## 🌍 Region, Segment, Category & Subcategory by Sales  
 
-### Part 1
-![Region Segment Category Subcategory by Sales 1](images/Screenshot%202025-10-28%20151503.png)
+### Part 1  
+![Region Segment Category Subcategory by Sales 1](images/Screenshot%202025-10-28%20151503.png)  
 
-### Part 2
-![Region Segment Category Subcategory by Sales 2](images/Screenshot%202025-10-28%20151559.png)
+**Summary:**  
+Displays **sales performance across region, segment, and category**, highlighting how **Furniture** and **Office Supplies** perform in different consumer segments.  
 
-### Part 3
-![Region Segment Category Subcategory by Sales 3](images/Screenshot%202025-10-28%20151635.png)
+---
 
-**Insights:**  
-- **Consumer segment** dominates in all regions.  
-- **Central and East regions** show higher performance in multiple categories.  
-- **Technology** has consistent sales across all regions.  
+### Part 2  
+![Region Segment Category Subcategory by Sales 2](images/Screenshot%202025-10-28%20151559.png)  
+
+**Summary:**  
+Breaks down **subcategory-level sales** within each region and segment, showing variation in **Office Supplies** and **Technology** contributions.  
+
+---
+
+### Part 3  
+![Region Segment Category Subcategory by Sales 3](images/Screenshot%202025-10-28%20151635.png)  
+
+**Summary:**  
+Offers a **combined regional and segment view** for deeper analysis of how each **subcategory contributes to total sales** across business segments.  
 
 ---
 
@@ -96,7 +104,8 @@ The dashboard analyzes business performance through:
 ## 🛠️ Tools Used  
 
 - **Tableau Public** – For building dashboards  
-- **Excel / CSV** – For data preparation
+- **Excel / CSV** – For data preparation  
+
 ---
 
 ## 📚 Insights Summary  
@@ -111,8 +120,7 @@ The dashboard analyzes business performance through:
 
 ---
 
-## 👤 Author
+## 👤 Author  
 **Vishal Malik**  
 🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
 🔗 [GitHub](https://github.com/vishalmalik18)
-
