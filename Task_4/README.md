@@ -22,6 +22,9 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 #### 🌍 Region-wise Inner Join  
 ![Inner Join Region Level](images/Screenshot%202025-10-30%20142917.png)
 
+Full join 
+![hello](images/Screenshot%202025-10-30%141751.png)
+
 ## Cross join - State-wise View
 
 
