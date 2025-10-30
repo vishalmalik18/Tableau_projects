@@ -24,18 +24,14 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 
 ---
 
-## 🌐 2️⃣ Full Join — Area-wise Sales Visualization  
 
-### 🔹 Objective  
-Perform a **Full Join** between **Books** and **Electronics** sheets and create a **line graph** displaying **Area-wise** (Region-wise) **Book**, **Electronic**, and **Total Sales** in the same plot area.  
-
-### 📸 Visualization
-![hello](images/Screenshot%202025-10-30%20154238.png)
 
 
 ---
 
 ## 🔄 3️⃣ Data Blending — Combined State-wise View  
+
+![hello](images/Screenshot%202025-10-30%20154238.png)
 
 ### 🔹 Objective  
 Blend data from **Book** and **Electronic** data sources to display **Book Sales**, **Electronic Sales**, and **Total Sales** based on **State**.  
