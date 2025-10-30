@@ -28,6 +28,7 @@ Full join
 
 
 ## Cross join - State-wise View
+![hello](images/Screenshot%202025-10-30%20150656.png)
 
 
 ## Data Blending — State-wise View  
