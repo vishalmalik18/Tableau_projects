@@ -1,6 +1,10 @@
 # 📊 Tableau Project — Data Joining & Blending  
 
-This project demonstrates how to **combine multiple data sources** in Tableau using **Inner Join**, **Full Join**, **Cross Join**, and **Data Blending** techniques to analyze **Book Sales**, **Electronic Sales**, and **Total Sales** across different regions and states.  
+This project focuses on combining multiple data sources in Tableau using **Inner Join**, **Full Join**, **Cross Join**, and **Data Blending** methods to analyze **Book Sales**, **Electronic Sales**, and **Total Sales** across different regions and states.  
+
+The objective of this project is to integrate two separate datasets — one for electronic sales and another for book sales — and build a unified view of performance metrics. Each technique demonstrates a different way of connecting and comparing data to uncover patterns in regional and state-level sales.  
+
+Through the use of joins and blending, the project highlights how Tableau can be leveraged to build **data relationships**, consolidate multiple views, and visualize **combined insights** effectively. The resulting dashboards display total and category-wise performance, providing a complete perspective of sales distribution across geographic areas.  
 
 ---
 
