@@ -25,20 +25,49 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 ---
 
 ## 2️⃣ Full Join — Area-wise Analysis  
+
+### Objective  
+Join **Books** and **Electronics** sheets using a **Full Join** to include all data from both sources and visualize total sales.  
+
+### Insights  
+- Displays all records from both data sources, including unmatched states.  
+- Shows combined **Electronic**, **Book**, and **Total Sales** in a single line graph.  
+- Helps identify areas with missing or mismatched data.  
+
+### Visualization  
 ![Full Join Area Level](images/Screenshot%202025-10-30%20141751.png)
 
 ---
 
 ## 3️⃣ Cross Join — State-wise View  
+
+### Objective  
+Perform a **Cross Join** to explore every possible pairing between states and categories across the datasets.  
+
+### Insights  
+- Displays all possible combinations between data sources.  
+- Highlights potential relationships and overlaps.  
+- Useful for deep comparative and exploratory analysis.  
+
+### Visualization  
 ![Cross Join State Level](images/Screenshot%202025-10-30%20150656.png)
 
 ---
 
 ## 4️⃣ Data Blending — State-wise View  
+
+### Objective  
+Blend **Books** and **Electronics** data sources to compare **Book Sales**, **Electronic Sales**, and **Total Sales** on the basis of **State**.  
+
+### Insights  
+- Combines aggregated results from multiple sources.  
+- Maintains separate data connections while linking key fields.  
+- Provides an overall comparison of performance by state.  
+
+### Visualization  
 ![Data Blending State Level](images/Screenshot%202025-10-30%20154238.png)
 
 ---
-
 
 ## 🛠️ Tools Used  
 
@@ -51,4 +80,3 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 **Vishal Malik**  
 🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
 🔗 [GitHub](https://github.com/vishalmalik18)
-
