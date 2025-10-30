@@ -25,11 +25,7 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 ---
 
 
-
-
----
-
-## 🔄 3️⃣ Data Blending — Combined State-wise View  
+## Data Blending — State-wise View  
 
 ![hello](images/Screenshot%202025-10-30%20154238.png)
 
