@@ -43,7 +43,7 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 ## 🛠️ Tools Used  
 
 - **Tableau Public** – For building dashboards  
-- **Excel / CSV** – For data preparation  
+- **Excel** – For data preparation  
 
 ---
 
