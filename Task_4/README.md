@@ -38,3 +38,17 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 ![Data Blending State Level](images/Screenshot%202025-10-30%20154238.png)
 
 ---
+
+
+## 🛠️ Tools Used  
+
+- **Tableau Public** – For building dashboards  
+- **Excel / CSV** – For data preparation  
+
+---
+
+## 👤 Author  
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
+
