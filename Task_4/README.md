@@ -29,8 +29,9 @@ Join **Book Sales** and **Electronic Sales** data sources using an **Inner Join*
 ### 🔹 Objective  
 Perform a **Full Join** between **Books** and **Electronics** sheets and create a **line graph** displaying **Area-wise** (Region-wise) **Book**, **Electronic**, and **Total Sales** in the same plot area.  
 
-### 📸 Visualization  
-![Full Join Line Graph](images/Screenshot%202025-10-30%20150656.png)
+### 📸 Visualization
+![hello](images/Screenshot%202025-10-30%20154238.png)
+
 
 ---
 
