@@ -1,6 +1,10 @@
 # 📊 Superstore Sales Analysis Dashboard  
 
-This project presents a **comprehensive Tableau dashboard** built using the **Superstore dataset**, providing insights into **sales, profit, discounts, and performance** across regions, segments, and categories.
+This project presents a comprehensive Tableau dashboard built using the **Superstore dataset**, offering a detailed overview of key business metrics such as **sales, profit, discount patterns, and overall performance** across multiple dimensions including **regions, segments, and categories**.  
+
+The dashboard is designed to provide an intuitive and interactive experience, enabling users to explore data dynamically and uncover trends at both summary and granular levels. It highlights regional strengths, identifies areas of improvement, and visualizes how discounts impact profitability across various product lines.  
+
+By combining interactive filters, dynamic charts, and KPI-driven visuals, this Tableau dashboard delivers a clear and actionable understanding of the organization’s sales performance and business health.
 
 ---
 
