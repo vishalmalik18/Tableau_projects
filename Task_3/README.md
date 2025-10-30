@@ -41,3 +41,16 @@ Display **Sales Values** using a **combined field** that merges *Region*, *Segme
 ✅ Region-wise, Segment-wise & Category-wise Insights  
 
 ---
+
+## 🛠️ Tools Used  
+
+- **Tableau Public** – For building dashboards  
+- **Excel / CSV** – For data preparation  
+
+---
+
+## 👤 Author  
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
+
