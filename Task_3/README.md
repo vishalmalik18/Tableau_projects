@@ -1,6 +1,8 @@
 # 📊 Tableau Visualization — Regional & Segment Analysis  
 
-This project contains **three Tableau worksheets** analyzing **sales and costs** across different dimensions such as *Region, Category, Sub-Category,* and *Segment*.  
+This project contains three Tableau worksheets that provide an in-depth analysis of **sales** and **cost performance** across multiple business dimensions, including **Region**, **Category**, **Sub-Category**, and **Segment**. Each worksheet is designed to explore a different aspect of business performance — from understanding regional contribution to segment-level spending patterns.  
+
+The visualizations present a clear comparison of how various segments and product categories perform across geographical areas, supported by interactive filters and dynamic titles. Together, these dashboards deliver a comprehensive view of sales distribution, profitability trends, and cost behavior, offering valuable insights for data-driven decision-making.
 
 ---
 
