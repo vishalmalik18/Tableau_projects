@@ -38,10 +38,11 @@ Join **Books** and **Electronics** sheets using a **Full Join** to include all d
 - Shows combined **Electronic**, **Book**, and **Total Sales** in a single line graph.  
 - Helps identify areas with missing or mismatched data.  
 
-### Visualization  
+### Tabel persenation  
+
 ![Full Join Area Level](images/Screenshot%202025-10-30%20141751.png)
 
-### line chart
+### Line chart
 ![hello](images/Screenshot%202025-10-31%20101340.png)
 
 ---
