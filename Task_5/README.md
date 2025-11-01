@@ -14,3 +14,11 @@
 ![hello](images/Screenshot%202025-10-31%20131826.png)
 
 ![hello](images/Screenshot%202025-10-31%20131839.png)
+
+
+Create a bar chart to represent region wise profit. The Bars
+should also display category, sales & profit value.
+Display sub category wise quantity sold & average profit using bar
+chart.
+
+![hello](images/Screenshot%202025-10-31%20151134.png)
