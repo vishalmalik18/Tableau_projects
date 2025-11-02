@@ -126,3 +126,8 @@ Applies **data source filtering** to dynamically restrict all charts to the **Te
 
 ---
 
+## 👤 Author  
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
+
