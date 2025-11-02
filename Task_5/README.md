@@ -126,14 +126,3 @@ Applies **data source filtering** to dynamically restrict all charts to the **Te
 
 ---
 
-## 📘 Summary  
-
-This Tableau project transforms raw Superstore data into **actionable business intelligence**, enabling data-driven decisions through powerful visuals and calculated insights.  
-It combines **interactivity, customization, and precision** to deliver a holistic view of sales and profit performance across time, regions, and product hierarchies.  
-
----
-
-## 🏷️ Tags  
-
-`#Tableau` `#DataVisualization` `#DashboardDesign` `#SuperstoreDataset`  
-`#ProfitAnalysis` `#SalesInsights` `#BusinessIntelligence` `#DataAnalytics`  
