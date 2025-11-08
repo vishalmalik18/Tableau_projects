@@ -55,8 +55,7 @@ A bubble chart showing:
 
 **Insight:** Allows visual comparison of regional performance.
 
-> _Screenshot Placeholder_  
-![Bubble Chart](images/bubble_chart.png)
+![Bubble Chart](images/Screenshot%202025-11-07%20154351.png)
 
 ---
 
