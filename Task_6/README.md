@@ -65,8 +65,7 @@ A treemap is used to show **Sales contribution** broken down hierarchically:
 
 **Insight:** Quickly highlights largest revenue contributors.
 
-> _Screenshot Placeholder_  
-![Tree Map](images/treemap.png)
+![Tree Map](images/Screenshot%202025-11-07%20154404.png)
 
 ---
 
