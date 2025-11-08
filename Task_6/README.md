@@ -33,7 +33,6 @@ This line chart represents:
 
 **Insight:** Shows seasonal performance and profit fluctuations across months.
 
-> 
 ![Monthly Profit Chart](images/Screenshot%202025-11-07%20114640.png)
 
 ---
@@ -43,8 +42,7 @@ Profit is represented by **Category & Subcategory**, with a **reference line** u
 
 **Insight:** Identifies which subcategories contribute the most to profit.
 
-> _Screenshot Placeholder_  
-![Profit Above Average Bar](images/profit_above_avg.png)
+![Profit Above Average Bar](images/Screenshot%202025-11-07%20124158.png)
 
 ---
 
