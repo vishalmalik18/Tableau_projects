@@ -104,7 +104,7 @@ Represents **Population percentage** state-wise across India using a **Filled Ma
 - Allows **interactive filtering** by Region
 
 > _Screenshot Placeholder_  
-![Interactive Region Profit Chart](images/interactive_region_bar.png)
+![Interactive Region Profit Chart](images/Screenshot%202025-11-07%20221929.png)
 
 ---
 
