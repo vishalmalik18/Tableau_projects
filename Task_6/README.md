@@ -81,16 +81,14 @@ A funnel chart representing **Sales contribution subcategory-wise**.
 ## 8. Pie Chart: Segment Wise Profit
 Displays Profit distribution percentage across all **Segments**.
 
-> _Screenshot Placeholder_  
-![Pie Chart](images/pie_segment_profit.png)
+![Pie Chart](images/Screenshot%202025-11-07%20155329.png)
 
 ---
 
 ## 9. Waterfall Chart: Subcategory Wise Profit
 A **Waterfall** chart is used to visualize how each subcategory contributes to total profit.
 
-> _Screenshot Placeholder_  
-![Waterfall Chart](images/waterfall_subcategory_profit.png)
+![Waterfall Chart](Task_6/images/Screenshot%202025-11-07%20201646.png)
 
 ---
 
