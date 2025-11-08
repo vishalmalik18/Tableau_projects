@@ -12,7 +12,6 @@ A scatter chart is used to show the relationship between **Sales** and **Profit*
 
 **Insight:** Identifies Segments that deliver high revenue and high profitability.
 
-> _Screenshot Placeholder_  
 ![Scatter Chart](images/Screenshot%202025-11-05%20191255.png)
 
 ---
