@@ -95,8 +95,7 @@ A **Waterfall** chart is used to visualize how each subcategory contributes to t
 ## 10. India State Population Percentage Map
 Represents **Population percentage** state-wise across India using a **Filled Map**.
 
-> _Screenshot Placeholder_  
-![India Population Map](images/india_population_map.png)
+![India Population Map](images/Screenshot%202025-11-07%20215350.png)
 
 ---
 
