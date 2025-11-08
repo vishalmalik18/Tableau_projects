@@ -21,7 +21,7 @@ A **Filled Map** visualization is used to represent total **Sales** across diffe
 
 **Insight:** Helps to identify top performing states.
 
-![State Sales Map](Task_6/images/Screenshot%202025-11-07%20111013.png)
+![State Sales Map](images/Screenshot%202025-11-07%20111013.png)
 
 ---
 
