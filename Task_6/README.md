@@ -116,4 +116,7 @@ Represents **Population percentage** state-wise across India using a **Filled Ma
 
 ---
 
-## 📂 Project Structure
+## 👤 Author  
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
