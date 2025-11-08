@@ -109,10 +109,8 @@ Represents **Population percentage** state-wise across India using a **Filled Ma
 ---
 
 ## 🛠 Tools Used
-| Tool | Purpose |
-|------|---------|
-| Tableau | Visualization and Dashboard Development |
-| Excel / CSV Data Source | Input Data |
+- **Software Used:** Tableau Public  
+- **Dataset:** Superstore Dataset  
 
 ---
 
