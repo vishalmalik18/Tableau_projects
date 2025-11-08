@@ -88,7 +88,7 @@ Displays Profit distribution percentage across all **Segments**.
 ## 9. Waterfall Chart: Subcategory Wise Profit
 A **Waterfall** chart is used to visualize how each subcategory contributes to total profit.
 
-![Waterfall Chart](Task_6/images/Screenshot%202025-11-07%20201646.png)
+![Waterfall Chart](images/Screenshot%202025-11-07%20201646.png)
 
 ---
 
