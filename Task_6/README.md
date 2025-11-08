@@ -74,8 +74,7 @@ A funnel chart representing **Sales contribution subcategory-wise**.
 
 **Insight:** Shows top-selling and least-selling subcategories in funnel view.
 
-> _Screenshot Placeholder_  
-![Funnel Chart](images/funnel.png)
+![Funnel Chart](images/Screenshot%202025-11-07%20204327.png)
 
 ---
 
