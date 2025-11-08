@@ -33,7 +33,7 @@ This line chart represents:
 
 **Insight:** Shows seasonal performance and profit fluctuations across months.
 
-> _Screenshot Placeholder_  
+> 
 ![Monthly Profit Chart](images/Screenshot%202025-11-07%20114640.png)
 
 ---
