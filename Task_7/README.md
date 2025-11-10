@@ -41,7 +41,7 @@ A bar chart showing **Profit** for each **Category**, separated based on **Regio
 
 **Insight:** Shows which regions perform well for each category.
 
-![USA Category Region Profit](images/usa_category_region_profit.png)
+![USA Category Region Profit](images/Screenshot%202025-11-09%20111024.png)
 
 ---
 
