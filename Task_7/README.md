@@ -42,7 +42,7 @@ displayed for the highlighted state.
 
 ---
 
-## 3. USA Profit by Category & Region
+## 4. USA Profit by Category & Region
 
 A bar chart showing **Profit** for each **Category**, separated based on **Region**.
 
@@ -52,7 +52,7 @@ A bar chart showing **Profit** for each **Category**, separated based on **Regio
 
 ---
 
-## 4. USA Profit by Category, Subcategory & Region
+## 5. USA Profit by Category, Subcategory & Region
 
 A detailed bar chart displaying **Category → Subcategory → Region** level profit.
 
@@ -63,7 +63,7 @@ Selecting a **Region** in the previous chart filters this view.
 
 ---
 
-## 5. Segment Wise Profit with Drill Down to Region
+## 6. Segment Wise Profit with Drill Down to Region
 
 A bar chart showing **Profit by Segment**.
 
