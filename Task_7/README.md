@@ -31,7 +31,7 @@ A bar chart comparing:
 **Interactive Action:**
 Selecting any state on the **Covid Map** automatically updates this bar chart.
 
-![Covid Bar Chart](images/india_covid_bar.png)
+![Covid Bar Chart](images/Screenshot%202025-11-08%20213347.png)
 
 ---
 
