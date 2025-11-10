@@ -63,9 +63,7 @@ A bar chart showing **Profit by Segment**.
 **Parameter Action:**
 Selecting a **Segment** drills down to show **Profit by Region** for that selected segment.
 
-![Segment Profit](images/usa_segment_profit.png)
-
-![Drilldown to Region](images/usa_segment_drilldown.png)
+![Drilldown to Region](images/Screenshot%202025-11-09%20155128.png)
 
 ---
 
