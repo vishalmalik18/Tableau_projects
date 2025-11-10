@@ -52,7 +52,7 @@ A detailed bar chart displaying **Category → Subcategory → Region** level pr
 **Interactive Action:**
 Selecting a **Region** in the previous chart filters this view.
 
-![USA Category Subcategory Region Profit](images/usa_category_subcategory_profit.png)
+![USA Category Subcategory Region Profit](Task_7/images/Screenshot%202025-11-09%20113030.png)
 
 ---
 
