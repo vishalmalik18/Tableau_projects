@@ -35,6 +35,13 @@ Selecting any state on the **Covid Map** automatically updates this bar chart.
 
 ---
 
+## 3. Use action so that the bar graph representation of Covid details should be
+displayed for the highlighted state.
+
+![hello](images/Screenshot%202025-11-09%20122104.png)
+
+---
+
 ## 3. USA Profit by Category & Region
 
 A bar chart showing **Profit** for each **Category**, separated based on **Region**.
