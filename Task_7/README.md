@@ -1,1 +1,86 @@
+# 📊 Tableau Covid Analysis (India) & Sales-Profit Analysis (USA)
+
+This project includes two major analyses:
+
+1. **State-wise Covid Case Analysis for India**
+2. **Sales & Profit Analysis for USA** using Category, Region, Segment, and Subcategory visuals.
+
+All visuals are created in **Tableau**, and screenshots are stored inside the **images/**.
+
+---
+
+## 1. India Covid Case Percentage Map
+
+A **Filled Map** representing **percentage contribution of total Covid cases** for each state in India.
+
+**Insight:** Shows which states were majorly impacted.
+
+![India Covid Percentage Map](images/india_covid_map.png)
+
+---
+
+## 2. India Covid Total Cases, Recovered & Deaths (Bar Chart)
+
+A bar chart comparing:
+
+* **Total Cases**
+* **Recovered**
+* **Deaths**
+  for each state.
+
+**Interactive Action:**
+Selecting any state on the **Covid Map** automatically updates this bar chart.
+
+![Covid Bar Chart](images/india_covid_bar.png)
+
+---
+
+## 3. USA Profit by Category & Region
+
+A bar chart showing **Profit** for each **Category**, separated based on **Region**.
+
+**Insight:** Shows which regions perform well for each category.
+
+![USA Category Region Profit](images/usa_category_region_profit.png)
+
+---
+
+## 4. USA Profit by Category, Subcategory & Region
+
+A detailed bar chart displaying **Category → Subcategory → Region** level profit.
+
+**Interactive Action:**
+Selecting a **Region** in the previous chart filters this view.
+
+![USA Category Subcategory Region Profit](images/usa_category_subcategory_profit.png)
+
+---
+
+## 5. Segment Wise Profit with Drill Down to Region
+
+A bar chart showing **Profit by Segment**.
+
+**Parameter Action:**
+Selecting a **Segment** drills down to show **Profit by Region** for that selected segment.
+
+![Segment Profit](images/usa_segment_profit.png)
+
+![Drilldown to Region](images/usa_segment_drilldown.png)
+
+---
+
+## 🛠 Tools Used
+
+* **Software:** Tableau Public
+* **Datasets Used:**
+
+  * **India Covid Dataset**
+  * **USA Superstore Sales Dataset**
+
+---
+
+## 👤 Author  
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
 
