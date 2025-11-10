@@ -35,8 +35,7 @@ Selecting any state on the **Covid Map** automatically updates this bar chart.
 
 ---
 
-## 3. Use action so that the bar graph representation of Covid details should be
-displayed for the highlighted state.
+## 3. Interactive Covid State Drill-Down - action parameter
 
 ![hello](images/Screenshot%202025-11-09%20122104.png)
 
