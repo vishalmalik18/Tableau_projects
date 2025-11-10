@@ -15,7 +15,7 @@ A **Filled Map** representing **percentage contribution of total Covid cases** f
 
 **Insight:** Shows which states were majorly impacted.
 
-![India Covid Percentage Map](images/india_covid_map.png)
+![India Covid Percentage Map](images/Screenshot%202025-11-08%20210307.png)
 
 ---
 
